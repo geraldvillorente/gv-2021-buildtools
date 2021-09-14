@@ -1,0 +1,14 @@
+uuid: 796870d2-84a3-4c3c-b7e8-e91ecfd21118
+name: gv-2021-buildtools
+mail: geraldvillorente@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
